@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction(Retail Banking Customer Risk Analytics)
 
 ## 📌 Project Overview
 
